@@ -5,6 +5,17 @@
     margin: 0;
 }
 
+/*Float*/
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
 /*General text*/
 a {
     color: #ffffff;
@@ -19,18 +30,6 @@ p {
 body {
     background-color: #d9dcd6;
 }
-
-/*Float*/
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
 
 /*Header*/
 header {
