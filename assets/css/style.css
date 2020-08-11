@@ -5,13 +5,11 @@
 	margin: 0;
 }
 
-/*General font and text-styling*/
-.font-trebuchet {
-	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-
-.font-gill-sans{
+/*General styling and text*/
+body {
 	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	color: #ffffff;
+	background-color: #d9dcd6;
 }
 
 a {
@@ -23,12 +21,11 @@ p {
 	font-size: 16px;
 }
 
-/*body*/
-body {
-	background-color: #d9dcd6;
-	color: #ffffff;
+header, footer {
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+/*Specific element styling*/
 /*Header*/
 header {
 	padding: 20px;
