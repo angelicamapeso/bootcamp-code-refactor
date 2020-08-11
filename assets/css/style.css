@@ -5,17 +5,6 @@
 	margin: 0;
 }
 
-/*Float*/
-.float-left {
-	float: left;
-	margin-right: 25px;
-}
-
-.float-right {
-	float: right;
-	margin-left: 25px;
-}
-
 /*General font and text-styling*/
 .font-trebuchet {
 	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -103,6 +92,17 @@ header h1 {
 #content article h2 {
 	margin-bottom: 20px;
 	font-size: 36px;
+}
+
+/*Float article image*/
+.float-image-left {
+	float: left;
+	margin-right: 25px;
+}
+
+.float-image-right {
+	float: right;
+	margin-left: 25px;
 }
 
 /*Aside content - Benefits*/
