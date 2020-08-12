@@ -75,18 +75,18 @@ header h1 {
   margin-left: 20px;
 }
 
-#content section {
+.content-info {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
   background-color: #0072bb;
 }
 
-#content section img {
+.content-info img {
   max-height: 200px;
 }
 
-#content section h2 {
+.content-info h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
