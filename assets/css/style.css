@@ -75,23 +75,23 @@ header h1 {
   margin-left: 20px;
 }
 
-#content article {
+#content section {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
   background-color: #0072bb;
 }
 
-#content article img {
+#content section img {
   max-height: 200px;
 }
 
-#content article h2 {
+#content section h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
 
-/*Float article image*/
+/*Float section image*/
 .float-image-left {
   float: left;
   margin-right: 25px;
@@ -113,17 +113,17 @@ header h1 {
   background-color: #2589bd;
 }
 
-#benefits article {
+#benefits section {
   margin-bottom: 32px;
 }
 
-#benefits article img {
+#benefits section img {
   display: block;
   margin: 10px auto;
   max-width: 150px;
 }
 
-#benefits article h2 {
+#benefits section h2 {
   margin-bottom: 10px;
   text-align: center;
 }
