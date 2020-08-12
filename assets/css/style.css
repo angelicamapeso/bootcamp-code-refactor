@@ -113,17 +113,17 @@ header h1 {
   background-color: #2589bd;
 }
 
-#benefits section {
+.benefit-info {
   margin-bottom: 32px;
 }
 
-#benefits section img {
+.benefit-info img {
   display: block;
   margin: 10px auto;
   max-width: 150px;
 }
 
-#benefits section h2 {
+.benefit-info h2 {
   margin-bottom: 10px;
   text-align: center;
 }
