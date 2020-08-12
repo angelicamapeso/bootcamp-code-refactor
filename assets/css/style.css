@@ -1,3 +1,10 @@
+/*Organization of css styles:
+- Box
+- Positioning
+- Typography
+- Visual
+*/
+
 /*All elements*/
 * {
   box-sizing: border-box;
@@ -7,6 +14,7 @@
 
 /*General styling and text*/
 body {
+  /*prmimary font*/
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   color: #ffffff;
   background-color: #d9dcd6;
@@ -22,6 +30,7 @@ p {
 }
 
 header, footer {
+  /*secondary font*/
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
@@ -33,8 +42,8 @@ header {
 }
 
 header h1 {
-  display: inline-block;
   font-size: 48px;
+  display: inline-block;
 }
 
 /*The "seo" letters of Horiseon*/
@@ -55,8 +64,8 @@ header h1 {
 }
 
 #main-nav ul li {
-  display: inline-block;
   margin-left: 25px;
+  display: inline-block;
 }
 
 /*Hero image*/
@@ -93,23 +102,23 @@ header h1 {
 
 /*Float section image*/
 .float-image-left {
-  float: left;
   margin-right: 25px;
+  float: left;
 }
 
 .float-image-right {
-  float: right;
   margin-left: 25px;
+  float: right;
 }
 
 /*Aside content - Benefits*/
 #benefits {
+  width: 20%;
+  height: 100%;
   margin-right: 20px;
   padding: 20px;
   clear: both;
   float: right;
-  width: 20%;
-  height: 100%;
   background-color: #2589bd;
 }
 
@@ -118,9 +127,9 @@ header h1 {
 }
 
 .benefit-info img {
-  display: block;
   margin: 10px auto;
   max-width: 150px;
+  display: block;
 }
 
 .benefit-info h2 {
