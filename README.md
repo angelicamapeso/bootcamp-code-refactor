@@ -26,6 +26,8 @@ The errors with the HTML and CSS code can be summed up in the following points:
   -  Cleaned up any syntax issues
   -  Added comments
 
+  This homework assignment is part of the [Carleton University Coding Bootcamp](https://bootcamp.carleton.ca/).
+
 
 
 
