@@ -1,4 +1,4 @@
-# Carleton University Coding Bootcamp - Homework 1: Code Refactor
+Bootcamp - Homework 1: Code Refactor
 The conents of this assignment are refactored HTML and CSS code. The original code was provided by the Bootcamp along with a User Story and Acceptance Criteria. 
 
 ## Purpose
