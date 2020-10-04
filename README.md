@@ -1,5 +1,10 @@
 # Bootcamp - Homework 1: Code Refactor
+
+![Horiseon Preview](./assets/images/horiseon_preview.png)
+
 The conents of this assignment are refactored HTML and CSS code. The original code was provided by the Bootcamp along with a User Story and Acceptance Criteria. 
+
+:link: [Go to site](https://angelicamapeso.github.io/bootcamp-code-refactor/)
 
 ## Purpose
 This site was refactored for a fictional marketing agency ("Horiseon") to make their website accessible. In doing so, their site becomes easier for users with disabilities to navigate and optimizes their site for search engines. 
